@@ -8,6 +8,10 @@
         {"name": "bush", "startTile": 37,  "tiles":[37, 40, 43, 40], "delay": 16},
         {"name": "bush", "startTile": 38,  "tiles":[38, 41, 44, 41], "delay": 16},
         {"name": "bush", "startTile": 39,  "tiles":[39, 42, 45, 42], "delay": 16},
+        {"name": "cloud", "startTile": 355,  "tiles":[355, 357, 359, 357], "delay": 16},
+        {"name": "cloud", "startTile": 356,  "tiles":[356, 358, 360, 358], "delay": 16},
+        {"name": "cloud", "startTile": 388,  "tiles":[388, 390, 392, 390], "delay": 16},
+        {"name": "cloud", "startTile": 389,  "tiles":[389, 391, 393, 391], "delay": 16},
         {"name": "cloudplat", "startTile": 173,  "tiles":[173, 177, 181, 185], "delay": 8},
         {"name": "cloudplat", "startTile": 174,  "tiles":[174, 178, 182, 186], "delay": 8},
         {"name": "cloudplat", "startTile": 175,  "tiles":[175, 179, 183, 187], "delay": 8},
@@ -33,8 +37,8 @@
 		{"name": "fans19", "startTile": 1060, "tiles":[1060, 1067, 1074, 1081], "delay": 60},
 		{"name": "fans20", "startTile": 1061, "tiles":[1061, 1068, 1075, 1082], "delay": 60},
 		{"name": "fans21", "startTile": 1062, "tiles":[1062, 1069, 1076, 1083], "delay": 60},
-		{"name": "Toad1", "startTile": 253, "tiles":[253, 254], "delay": 12},
-		{"name": "Toad2", "startTile": 220, "tiles":[220, 221], "delay": 12},
+		{"name": "Toad1", "startTile": 253, "tiles":[253, 254], "delay": 16},
+		{"name": "Toad2", "startTile": 220, "tiles":[220, 221], "delay": 16},
 		{"name": "AnnivBox", "startTile": 1051, "tiles":[1051, 1051, 1051, 1052, 1053, 1052], "delay": 8}
     ]
 }
