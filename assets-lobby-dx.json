@@ -3,6 +3,7 @@
         {"name": "water", "startTile": 264, "tiles":[264, 266, 268, 270, 297, 299, 301, 303], "delay": 5},
         {"name": "water", "startTile": 265, "tiles":[265, 267, 269, 271, 298, 300, 302, 304], "delay": 5},
         {"name": "water", "startTile": 103, "tiles":[103, 104, 105, 106, 107, 108, 109, 110], "delay": 5},
+        {"name": "watertrans", "startTile": 402, "tiles":[402, 403, 404, 405, 406, 407, 408, 409], "delay": 5},
         {"name": "lava", "startTile": 112,  "tiles":[112, 113, 114, 115, 116, 117, 118, 119], "delay": 10},
         {"name": "mysteryBox", "startTile": 24,  "tiles":[24, 24, 24, 25, 26, 25], "delay": 8},
         {"name": "bush", "startTile": 37,  "tiles":[37, 40, 43, 40], "delay": 16},
@@ -39,6 +40,6 @@
 		{"name": "fans21", "startTile": 749, "tiles":[749, 756, 831, 838], "delay": 120},
 		{"name": "Toad1", "startTile": 253, "tiles":[253, 254], "delay": 16},
 		{"name": "Toad2", "startTile": 220, "tiles":[220, 221], "delay": 16},
-		{"name": "AnnivBox", "startTile": 1051, "tiles":[1051, 1051, 1051, 1052, 1053, 1052], "delay": 8}
+		{"name": "AnnivBox", "startTile": 779, "tiles":[779, 779, 779, 780, 781, 780], "delay": 8}
     ]
 }
