@@ -6,6 +6,7 @@
         {"name": "watertrans", "startTile": 402, "tiles":[402, 403, 404, 405, 406, 407, 408, 409], "delay": 5},
         {"name": "lava", "startTile": 112,  "tiles":[112, 113, 114, 115, 116, 117, 118, 119], "delay": 10},
         {"name": "mysteryBox", "startTile": 24,  "tiles":[24, 24, 24, 25, 26, 25], "delay": 8},
+        {"name": "noteBlock", "startTile": 788,  "tiles":[788, 789, 790, 789], "delay": 4},
         {"name": "bush", "startTile": 37,  "tiles":[37, 40, 43, 40], "delay": 16},
         {"name": "bush", "startTile": 38,  "tiles":[38, 41, 44, 41], "delay": 16},
         {"name": "bush", "startTile": 39,  "tiles":[39, 42, 45, 42], "delay": 16},
