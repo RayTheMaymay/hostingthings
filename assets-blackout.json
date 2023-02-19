@@ -9,10 +9,10 @@
 		{"name": "bush", "startTile": 37,  "tiles":[37, 40, 43, 40], "delay": 16},
 		{"name": "bush", "startTile": 38,  "tiles":[38, 41, 44, 41], "delay": 16},
 		{"name": "bush", "startTile": 39,  "tiles":[39, 42, 45, 42], "delay": 16},
+		{"name": "shine", "startTile": 305,  "tiles":[305, 306, 307, 308, 309, 308, 307, 306], "delay": 8},
 		{"name": "cloud", "startTile": 355,  "tiles":[355, 357, 359, 357], "delay": 16},
 		{"name": "cloud", "startTile": 356,  "tiles":[356, 358, 360, 358], "delay": 16},
 		{"name": "cloud", "startTile": 388,  "tiles":[388, 390, 392, 390], "delay": 16},
 		{"name": "cloud", "startTile": 389,  "tiles":[389, 391, 393, 391], "delay": 16},
-		{"name": "shine", "startTile": 305,  "tiles":[305, 306, 307, 308, 307, 306], "delay": 8},
 	]
 }
