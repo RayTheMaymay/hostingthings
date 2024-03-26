@@ -1,0 +1,7 @@
+{
+    "tileAnim":[
+        {"name": "weirdFire", "startTile": 87, "tiles":[87, 88, 89, 90], "delay": 5},
+        {"name": "water", "startTile": 180, "tiles":[180, 181], "delay": 5},
+        {"name": "water", "startTile": 623, "tiles":[623, 624, 625, 626], "delay": 5},
+    ]
+}
